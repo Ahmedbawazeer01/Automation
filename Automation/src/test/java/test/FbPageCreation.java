@@ -56,8 +56,8 @@ public class FbPageCreation {
 	        }
 	        WebElement submit=w.findElement(By.xpath("//button[@name='websubmit']"));
 	        submit.click();
-
-		
+System.out.println("Welcome page");
+		System.out.println("Hello");
 
 
 	}

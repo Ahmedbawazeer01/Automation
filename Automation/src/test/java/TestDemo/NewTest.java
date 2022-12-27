@@ -14,6 +14,7 @@ public class NewTest {
   @Test
   public void f() {
 	  System.out.println("Test1");
+	  System.out.println("Test2");
   }
   @BeforeMethod
   public void beforeMethod() {
